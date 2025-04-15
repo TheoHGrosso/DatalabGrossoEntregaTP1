@@ -1,0 +1,39 @@
+body {
+    color: #e0ebca;
+    background-color: #160e1c;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 5%;
+}
+
+img{
+    width: 30%;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+}
+a{
+    color: #7ad60f;
+}
+h1{
+    color: #7ad60f;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3{
+    color: #7ad60f;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+h4{
+    color: #e0ebca;
+    text-align: center;
+}
+
